@@ -1,0 +1,3 @@
+name: bed-wars
+version: '${project.version}'
+main: com.test.bedwars.Bed_wars
