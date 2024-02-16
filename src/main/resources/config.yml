@@ -1,0 +1,107 @@
+maps:
+  winter:
+    generators:
+      77303b3d-9be3-418a-b209-4b72ef61ada4:
+        type: BRICK
+        location:
+          x: 30.632617214672628
+          y: 63.0
+          z: 3.922690681437417
+          yaw: 6.149597
+          pitch: 90.0
+      7995b8e9-91f5-42b6-a866-38e10ba16ed2:
+        type: BRICK
+        location:
+          x: -29.437008741367702
+          y: 63.0
+          z: -2.7919337610511445
+          yaw: 205.35107
+          pitch: 90.0
+      91d6e950-db44-4cdc-891d-5f78f73c4e74:
+        type: IRON
+        location:
+          x: -18.98911949361554
+          y: 63.0
+          z: 0.45571968302038646
+          yaw: 263.3999
+          pitch: 90.0
+      71d80119-69be-453d-b2fc-7b8955f5172d:
+        type: IRON
+        location:
+          x: 21.120234505841992
+          y: 63.0
+          z: 0.42111916158850365
+          yaw: 272.4001
+          pitch: 90.0
+      d9d43cfe-15e4-4919-b585-d8deb4d7b6bb:
+        type: GOLD
+        location:
+          x: 3.392746895606515
+          y: 63.0
+          z: 0.37259182837860705
+          yaw: 269.24982
+          pitch: 90.0
+      39a4d8d2-8ba9-461d-baf0-a6da997b68c5:
+        type: GOLD
+        location:
+          x: -2.3869862744741424
+          y: 63.0
+          z: 0.6006904508317588
+          yaw: 92.401
+          pitch: 90.0
+    RED:
+      bed:
+        x: -35.0
+        y: 63.0
+        z: 0.0
+        yaw: 0.0
+        pitch: 0.0
+      shopEntity:
+        x: -32.20816255140851
+        y: 63.0
+        z: -3.671283709201661
+        yaw: 260.26318
+        pitch: 90.0
+      spawn:
+        x: -30.807573149854186
+        y: 63.0
+        z: 0.27775082295780973
+        yaw: 267.15918
+        pitch: 90.0
+    BLUE:
+      bed:
+        x: 35.0
+        y: 63.0
+        z: 0.0
+        yaw: 0.0
+        pitch: 0.0
+      shopEntity:
+        x: 33.30980369872667
+        y: 63.0
+        z: 4.119752429796759
+        yaw: 186.61707
+        pitch: 90.0
+      spawn:
+        x: 31.818055144743955
+        y: 63.0
+        z: 0.6322144078030288
+        yaw: 93.76184
+        pitch: 90.0
+shops:
+  islandShop:
+    items:
+      wool:
+        displayName: Wool
+        material: WOOL
+        price: 1
+        currency: BRICK
+      shears:
+        displayName: Shears
+        material: SHEARS
+        price: 10
+        currency: IRON
+      diamond_sword:
+        displayName: Diamond Sword
+        material: DIAMOND_SWORD
+        price: 10
+        currency: GOLD

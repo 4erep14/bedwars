@@ -1,9 +1,9 @@
-package com.test.bedwars.managers;
+package com.test.bedwars.gamemanager;
 
 public enum GameState {
-    PRELOBBY,
     LOBBY,
     STARTING,
     ACTIVE,
     ENDGAME,
+    RESET,
 }

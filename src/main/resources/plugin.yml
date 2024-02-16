@@ -1,3 +1,10 @@
-name: bed-wars
+name: bedwars
 version: '${project.version}'
-main: com.test.bedwars.Bed_wars
+main: com.test.bedwars.BedwarsPlugin
+commands:
+  setup:
+    description: Setup a map
+  start:
+    description: Start the game
+  reset:
+    description: Reset the game
